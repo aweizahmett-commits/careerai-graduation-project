@@ -1,0 +1,15 @@
+FIXED CV UPLOAD TEST
+
+Name: Final Fixed CV Student
+Email: finalfixed@example.com
+Phone: +90 555 123 4567
+
+EDUCATION
+Bachelor of Software Engineering
+2020-2024
+
+SKILLS
+Python, React, Node.js, File Upload, Testing
+
+This CV is created to test the final fixed CV upload functionality.
+The backend should now properly handle the cv_file field from frontend.

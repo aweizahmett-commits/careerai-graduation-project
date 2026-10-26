@@ -1,0 +1,16 @@
+FRONTEND CV DISPLAY TEST
+
+Name: Frontend CV Test Student
+Email: frontend@example.com
+Phone: +90 123 456 7890
+
+EDUCATION
+Bachelor of Software Engineering
+2020-2024
+
+SKILLS
+Python, React, Node.js, Testing, Frontend Development
+
+This CV is created specifically to test the CV display functionality
+in the frontend employer dashboard. The CV should appear in the
+CV section with a clickable View CV link.

@@ -1,0 +1,31 @@
+django>=4.2.0
+djangorestframework>=3.14.0
+drf-yasg>=1.21.0
+djangorestframework-simplejwt>=5.2.0
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+python-docx>=0.8.11
+
+# AI and Machine Learning
+openai>=1.0.0
+spacy>=3.6.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# External API integrations
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# CORS support
+django-cors-headers>=4.2.0
+
+# Image processing (for resume OCR if needed)
+Pillow>=10.0.0
+
+# Advanced text processing
+nltk>=3.8.0
+textblob>=0.17.1
+
+# Database optimization (optional)
+redis>=4.6.0

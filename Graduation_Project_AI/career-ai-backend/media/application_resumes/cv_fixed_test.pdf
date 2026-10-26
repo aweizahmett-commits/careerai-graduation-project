@@ -1,0 +1,9 @@
+CV UPLOAD TEST - FIXED FIELD NAME
+
+Name: Test Student CV Fixed
+Email: cvfixed@example.com
+Education: Bachelor of Computer Science
+Skills: Python, React, Node.js, AWS
+Experience: Software Developer Intern
+
+This CV is created to test the fixed CV upload functionality where the frontend sends resume_file instead of cv_file.
